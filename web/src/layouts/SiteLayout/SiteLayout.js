@@ -44,7 +44,7 @@ const SiteLayout = ({ children }) => {
               Ross Campbel
             </Link>
             . Interface by{' '}
-            <Link href="www.withTally.com" isExternal>
+            <Link href="https://www.withTally.com" isExternal>
               Tally
             </Link>
           </Text>
