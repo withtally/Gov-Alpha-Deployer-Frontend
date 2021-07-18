@@ -47,6 +47,11 @@ const SiteLayout = ({ children }) => {
             <Link href="https://www.withTally.com" isExternal>
               Tally
             </Link>
+            . Learn about Governance{' '}
+            <Link href="https://wiki.withtally.com/docs" isExternal>
+              here
+            </Link>
+            .
           </Text>
         </Flex>
       </Flex>
